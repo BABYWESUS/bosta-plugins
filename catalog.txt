@@ -1,0 +1,10 @@
+# Bosta plugin list. It is signed: editing it by hand breaks it. Rebuild it with: TDB Keygen.exe --publish <this folder>
+[plugin]
+id=tdb
+name=(TDB) TUNE DE BOSTA
+version=1.0.1
+description=Real-time vocal tuner with doubler, key finder and custom looks
+bundle=(TDB) TUNE DE BOSTA.vst3
+file=tdb.zip
+size=2640631
+sha256=8137699b887acf9a6a48e9dc797a87eda1a8a512a50593cd89fa38519ed979db
