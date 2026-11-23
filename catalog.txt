@@ -2,9 +2,9 @@
 [plugin]
 id=tdb
 name=(TDB) TUNE DE BOSTA
-version=1.0.1
+version=1.0.6
 description=Real-time vocal tuner with doubler, key finder and custom looks
 bundle=(TDB) TUNE DE BOSTA.vst3
 file=tdb.zip
-size=2640631
-sha256=8137699b887acf9a6a48e9dc797a87eda1a8a512a50593cd89fa38519ed979db
+size=3367954
+sha256=59acf48cdecf89a52916130367fd36444015b0eeca784ac4273ff3917f7aeaf1
