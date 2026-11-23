@@ -7,7 +7,7 @@ description=Pitch and formant shifter with robot mode, drive and widener
 bundle=BDB PITCH.vst3
 file=pdb.zip
 size=2470350
-sha256=836f8cfa28706cc8ed829a2223860c50af0b71f6f4118f8ec477bbe7633be2a7
+sha256=78f4282f12dc75ca8fa61ecebefd8e51db2d3eaf40c982709f005ddaacdfe6ea
 [plugin]
 id=tdb
 name=BDB TUNE
@@ -15,5 +15,6 @@ version=1.0.9
 description=Real-time vocal tuner with doubler, key finder and custom looks
 bundle=(TDB) TUNE DE BOSTA.vst3
 file=tdb.zip
+replaces=BDB TUNE.vst3
 size=3410907
-sha256=912832a003d1f6cad2578906693aaf9daf0ca51fc5ebaa0a31ff92be9e094076
+sha256=5988dc75513abbe1107075f8b20a8e834f8461c857c45a52cd5b312616703c2b
