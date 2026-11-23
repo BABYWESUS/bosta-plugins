@@ -1,10 +1,19 @@
 # Bosta plugin list. It is signed: editing it by hand breaks it. Rebuild it with: TDB Keygen.exe --publish <this folder>
 [plugin]
+id=pdb
+name=BDB PITCH
+version=1.0.0
+description=Pitch and formant shifter with robot mode, drive and widener
+bundle=BDB PITCH.vst3
+file=pdb.zip
+size=2470350
+sha256=836f8cfa28706cc8ed829a2223860c50af0b71f6f4118f8ec477bbe7633be2a7
+[plugin]
 id=tdb
-name=(TDB) TUNE DE BOSTA
-version=1.0.6
+name=BDB TUNE
+version=1.0.9
 description=Real-time vocal tuner with doubler, key finder and custom looks
 bundle=(TDB) TUNE DE BOSTA.vst3
 file=tdb.zip
-size=3367954
-sha256=59acf48cdecf89a52916130367fd36444015b0eeca784ac4273ff3917f7aeaf1
+size=3410907
+sha256=912832a003d1f6cad2578906693aaf9daf0ca51fc5ebaa0a31ff92be9e094076
