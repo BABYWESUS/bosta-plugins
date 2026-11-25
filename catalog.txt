@@ -2,12 +2,12 @@
 [plugin]
 id=pdb
 name=BDB PITCH
-version=1.0.0
+version=2.0.0
 description=Pitch and formant shifter with robot mode, drive and widener
 bundle=BDB PITCH.vst3
 file=pdb.zip
-size=2470350
-sha256=78f4282f12dc75ca8fa61ecebefd8e51db2d3eaf40c982709f005ddaacdfe6ea
+size=10137555
+sha256=eee08c55fdd4f83458e85d1e25c7151e5c03c7c2cb2d7223e18bb34a070f71dc
 [plugin]
 id=tdb
 name=BDB TUNE
