@@ -11,10 +11,10 @@ sha256=78f4282f12dc75ca8fa61ecebefd8e51db2d3eaf40c982709f005ddaacdfe6ea
 [plugin]
 id=tdb
 name=BDB TUNE
-version=1.0.9
+version=2.0.0
 description=Real-time vocal tuner with doubler, key finder and custom looks
 bundle=(TDB) TUNE DE BOSTA.vst3
 file=tdb.zip
 replaces=BDB TUNE.vst3
-size=3410907
-sha256=5988dc75513abbe1107075f8b20a8e834f8461c857c45a52cd5b312616703c2b
+size=3682921
+sha256=8d110c7454a37a727d4fbf19cc8f88b7aad31956b7501d16f8ecd30c833b725b
