@@ -1,5 +1,14 @@
 # Bosta plugin list. It is signed: editing it by hand breaks it. Rebuild it with: TDB Keygen.exe --publish <this folder>
 [plugin]
+id=mix
+name=BDB MIX
+version=0.1.0
+description=TESTE: trabalho em andamento, ainda em desenvolvimento e pode nao funcionar. Mixer automatico de voz no beat
+bundle=BDB MIX.vst3
+file=mix.zip
+size=2389385
+sha256=73a9635154ed55a6be607071b2b55cf16ffcc38d8335cc0257df7646c6626a41
+[plugin]
 id=pdb
 name=BDB PITCH
 version=2.1.0
