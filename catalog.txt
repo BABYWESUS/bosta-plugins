@@ -2,12 +2,12 @@
 [plugin]
 id=mix
 name=BDB MIX
-version=0.1.0
-description=TESTE: trabalho em andamento, ainda em desenvolvimento e pode nao funcionar. Mixer automatico de voz no beat
+version=1.0.0
+description=TESTE 1.0 com amigos: mixa a voz depois do seu preset. Limpa ruido, encaixa no beat, referencias e sugestoes; mostra o que mudou e por que (Guide dentro do plugin)
 bundle=BDB MIX.vst3
 file=mix.zip
-size=2389385
-sha256=73a9635154ed55a6be607071b2b55cf16ffcc38d8335cc0257df7646c6626a41
+size=3702121
+sha256=0f6220a627433ff8d0e570f52b3fa2d68877367009da06f936567685be4fbeef
 [plugin]
 id=pdb
 name=BDB PITCH
