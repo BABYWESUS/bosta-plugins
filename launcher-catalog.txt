@@ -1,0 +1,10 @@
+# Bosta plugin list. It is signed: editing it by hand breaks it. Rebuild it with: TDB Keygen.exe --publish <this folder>
+[plugin]
+id=bosta-launcher
+name=Bosta Launcher
+version=1.4.0
+description=launcher-self-update-v1
+bundle=Bosta Launcher.exe
+file=bosta-launcher-1.4.0.exe
+size=5690880
+sha256=1ebc77a80b89ac79bd7e9fce4a98b1f5b5c2692e7db821717e76a02bcecca2ed
